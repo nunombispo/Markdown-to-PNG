@@ -1,0 +1,4 @@
+markdown 
+selenium 
+webdriver-manager 
+pymdown-extensions
